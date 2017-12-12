@@ -1,8 +1,8 @@
-package br.com.casnav;
+package br.com.casnav.diogo;
 
 import java.io.Serializable;
 
-public class calculadora implements Serializable {
+public class Calculadora implements Serializable {
 	
 	/**
 	 * 
